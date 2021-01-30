@@ -1,5 +1,8 @@
 # DIO-Dino-Game
 Jogo do dinossauro sem internet para o projeto do curso da Digital Inovation One
+Versão Remasterizada
 
-- V1: Feito pelo tutorial
-- V2: Minha versão baseada no V1
+# Conteúdo
+- Server Side
+- DataBase
+- Scoreboards
