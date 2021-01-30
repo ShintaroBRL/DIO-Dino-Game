@@ -8,7 +8,7 @@ const io = require('socket.io')(server);
 const mongoose = require('mongoose');
 
 //Configs
-const DBServer = process.env.DBServer || 'mongodb+srv://dinogame:diogame@cluster0.mmsah.mongodb.net/dino_game_score?retryWrites=true&w=majority'
+const DBServer = process.env.DBServer || '<sua DB aqui>'
 const port = process.env.PORT || 5000
 
 //MiddleWares
