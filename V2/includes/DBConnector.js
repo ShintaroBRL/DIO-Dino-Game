@@ -1,4 +1,4 @@
-var mongoose = require('mongoose');
+const mongoose = require('mongoose');
 
 const DBServer = process.env.DBServer || '<sua DB aqui>'
 
